@@ -1,0 +1,14 @@
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+
+# Ignorar arquivos de compilação
+*.o
+*.obj
+
+# Ignorar diretórios de ambiente virtual Python (por exemplo, criados pelo virtualenv ou venv)
+venv/
+env/
+
+
+transformer.pt
