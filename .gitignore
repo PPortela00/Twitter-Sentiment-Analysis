@@ -10,5 +10,4 @@
 venv/
 env/
 
-
-transformer.pt
+models/
